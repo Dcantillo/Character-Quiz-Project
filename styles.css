@@ -1,0 +1,42 @@
+img {
+    width: 250px; 
+  
+}
+
+body{
+    background: lightblue;
+    background-image: url("https://cdn.dribbble.com/users/9953/screenshots/1847828/slrg_tree.gif"); 
+    
+}
+input{
+    align-content: center; 
+    
+}
+button:hover{
+background-color: cyan ; 
+    color: blue ; 
+} 
+input, button {
+    font-size: 1.2rem;
+    padding: 0.8rem;
+}
+p{
+    font-size: 1.2rem;
+}
+.results{
+    font-size: 1.8rem;
+    
+}
+
+img{
+    width: 250px; 
+    
+}
+
+div{
+      margin: auto;
+  width: 50%;
+  border: 3px blue;
+  padding: 10px;
+    
+}
