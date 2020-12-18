@@ -1,3 +1,8 @@
+$( document ).ready(function() {
+    
+
+
+
 var picture = [ "https://www.spalding.com/dw/image/v2/ABAH_PRD/on/demandware.static/-/Sites-masterCatalog_SPALDING/default/dwd21974bc/images/hi-res/74876E_FRONT.jpg?sw=555&sh=689&sm=cut&sfrm=jpg", 
                'https://ewscripps.brightspotcdn.com/dims4/default/66f0dd8/2147483647/strip/true/crop/4500x2531+0+94/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd8%2F66%2F88bb1d6c42baa55b461ea060923a%2Fap-27269865886.jpg',
                'https://projects.seattletimes.com/2017/mariners-preview/assets/baseball_cutout.png ',
@@ -66,3 +71,4 @@ $(".submit").click(function() {
     
     
 }); 
+  });
